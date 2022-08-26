@@ -1,3 +1,4 @@
 export default function Teste() {
-    return 'Teste'
+    //'<h1>Teste</h1>'
+    return  <h1>Teste</h1> 
 }
